@@ -1,0 +1,7 @@
+Z:\CSharp\DotNetToJScriptMini\DotNetToJScriptMini\bin\Release\DotNetToJScriptMini.exe.config
+Z:\CSharp\DotNetToJScriptMini\DotNetToJScriptMini\bin\Release\DotNetToJScriptMini.exe
+Z:\CSharp\DotNetToJScriptMini\DotNetToJScriptMini\bin\Release\DotNetToJScriptMini.pdb
+Z:\CSharp\DotNetToJScriptMini\DotNetToJScriptMini\obj\Release\DotNetToJScriptMini.csprojAssemblyReference.cache
+Z:\CSharp\DotNetToJScriptMini\DotNetToJScriptMini\obj\Release\DotNetToJScriptMini.csproj.CoreCompileInputs.cache
+Z:\CSharp\DotNetToJScriptMini\DotNetToJScriptMini\obj\Release\DotNetToJScriptMini.exe
+Z:\CSharp\DotNetToJScriptMini\DotNetToJScriptMini\obj\Release\DotNetToJScriptMini.pdb
