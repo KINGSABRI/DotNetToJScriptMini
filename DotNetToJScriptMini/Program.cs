@@ -10,6 +10,10 @@ using System.Xml.Schema;
 
 namespace DotNetToJScriptMini
 {
+    // The original research behind Binaryformatter and serializ/deserialize Delegate by James Forshaw (@tiraniddo).
+    // From that research DotNetToJScript has born.
+    // https://googleprojectzero.blogspot.com/2017/08/bypassing-virtualbox-process-hardening.html
+    //
     class Program
     {
         /// 
@@ -22,7 +26,7 @@ namespace DotNetToJScriptMini
             Console.WriteLine("     " + typeof(Assembly).GetMethod("Load", new Type[] { typeof(byte[]) }));
 
             // Create a bound delegate which will load our assembly from a byte array.
-            // Delegate.CreateDelegate(Type, Object, Type)
+            // Delegate.CreateDelegate(Type, Object, Type)            
             // https://docs.microsoft.com/en-us/dotnet/api/system.delegate.createdelegate?view=net-5.0
             // https://docs.microsoft.com/en-us/dotnet/framework/reflection-and-codedom/how-to-hook-up-a-delegate-using-reflection
             // https://github.com/TheWover/beercode/blob/master/loaders/DeserializeAssembly.cs010
